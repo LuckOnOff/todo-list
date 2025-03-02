@@ -1,7 +1,3 @@
-demo: https://luckonoff.github.io/todo-list/
-
----
-
 # Todo-List
 
 Простое и удобное приложение для управления задачами, созданное с использованием современных веб-технологий.
@@ -47,7 +43,7 @@ demo: https://luckonoff.github.io/todo-list/
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-логин/todo-list.git
+   git clone https://github.com/LuckOnOff/todo-list.git
    ```
 
 2. Перейдите в папку проекта:
